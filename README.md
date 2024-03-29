@@ -53,7 +53,7 @@ Configured some ticket users. I used them to create tickets for the helpdesk age
 <img width="1141" alt="User Directory" src="https://github.com/brysonejones/post-install-config/assets/163891519/ed9e32ac-cb60-4551-9737-78730eb6ea80">
 </p>
 <p>
-SLA configuration. I created three status level named "Sev-A", "Sev-B", "Sev-C".
+SLA configuration. I created three different status level SLA named "Sev-A", "Sev-B", "Sev-C".
 <img width="1141" alt="SLA configuration" src="https://github.com/brysonejones/post-install-config/assets/163891519/e5509486-ac49-4b6f-8e52-a897493911f4">
 </p>
 <p>
