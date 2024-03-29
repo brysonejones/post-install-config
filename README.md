@@ -30,10 +30,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 "Supreme Admin" Role configuration. This role was given access to do anything within osTicket.
 <img width="1710" alt="Roles configuration" src="https://github.com/brysonejones/post-install-config/assets/163891519/dcc4e468-67a3-4bbb-864a-52a00cda6ec7">
+<img width="959" alt="osTicket SupAd role" src="https://github.com/brysonejones/post-install-config/assets/163891519/71b69f1c-b857-4399-84e3-2be754c7e15d">
 </p>
 <p>
 "System Administrators" department configuration.
 <img width="1141" alt="Department configuration" src="https://github.com/brysonejones/post-install-config/assets/163891519/042c6576-f6bb-4942-94a3-87d08132bb2d">
+<img width="959" alt="osTicket SysAdmin department" src="https://github.com/brysonejones/post-install-config/assets/163891519/96613ff1-7cc5-478f-a5ae-3dee5ca68dd5">
 </p>
 <p>
 "Teams" configuration for Level 1 and Level 2 Support.
@@ -51,7 +53,7 @@ Configured some ticket users. I used them to create tickets for the helpdesk age
 <img width="1141" alt="User Directory" src="https://github.com/brysonejones/post-install-config/assets/163891519/ed9e32ac-cb60-4551-9737-78730eb6ea80">
 </p>
 <p>
-SLA configuration.
+SLA configuration. I created three status level named "Sev-A", "Sev-B", "Sev-C".
 <img width="1141" alt="SLA configuration" src="https://github.com/brysonejones/post-install-config/assets/163891519/e5509486-ac49-4b6f-8e52-a897493911f4">
 </p>
 <p>
